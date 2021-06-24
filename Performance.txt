@@ -1,0 +1,3 @@
+Performance of Translator
+Time taken to process : 3.0 minutes 39.0 seconds
+Memory Used : 78.7 MB
